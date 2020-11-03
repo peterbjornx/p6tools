@@ -9,7 +9,7 @@ is not very tidy, it is provided for study only and should not be relied on in
 any way
 
 # Scramble / Descramble
-These scripts are used to convert between "phyisical" MSROM/RAM layout of
+These scripts are used to convert between "physical" MSROM/RAM layout of
 microcode and logical micro-op layout.
 
 Micro-ops occur in triplets and as such every fourth address in the descrambled
